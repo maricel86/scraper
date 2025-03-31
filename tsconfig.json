@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    /* Base Options: */
+    "esModuleInterop": true, // Enables compatibility with CommonJS modules
+    "skipLibCheck": true, // Skip type checking of declaration files
+    "target": "ES2022", // Target modern ECMAScript features
+    "allowJs": true, // Allow JavaScript files to be compiled
+    "resolveJsonModule": true, // Include modules imported with .json extension
+    "moduleDetection": "force", // Treat files as modules even without imports/exports
+    "isolatedModules": true, // Ensure files can be safely transpiled without relying on other imports
+
+    /* Strictness */
+    "strict": true, // Enable all strict type-checking options
+    "noUncheckedIndexedAccess": true, // Add 'undefined' to index signatures
+    "noImplicitAny": true, // Raise error on expressions and declarations with an implied 'any' type.
+
+    /* If NOT transpiling with TypeScript: */
+    // "module": "preserve", // Keep imports/exports as they are for external transpilers
+    // "noEmit": true, // Do not emit output files (useful if using Babel, etc.)
+
+    /* If your code runs in the DOM: */
+    // "lib": ["es2022", "dom", "dom.iterable"],
+
+    /* If you're building for a library: */
+    // "declaration": true, // Generate .d.ts files
+
+    /* If transpiling with TypeScript: */
+    "module": "CommonJS", // Change to CommonJS for compatibility with ts-node without .js extensions
+    "outDir": "dist", // Output directory for compiled files
+    "sourceMap": true, // Generate source map files for debugging
+
+    /* Module Resolution Options */
+    "moduleResolution": "node", // Change to classic node resolution
+    "baseUrl": ".", // Base directory to resolve non-relative module names
+    "paths": { // Optional path mapping
+      // "@/lib/*": ["src/lib/*"] 
+    },
+
+    /* Project Structure */
+    "rootDir": "src" // Specify the root directory of input files
+  },
+  "include": ["src/**/*.ts"], // Files to include in compilation
+  "exclude": ["node_modules", "dist"] // Folders to exclude
+}

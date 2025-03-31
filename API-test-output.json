@@ -1,0 +1,809 @@
+[
+  {
+    "input": {
+      "input_name": "Acorn Law P.C.",
+      "input_phone": "",
+      "input_website": "https://https//acornlawpc.com/",
+      "input_facebook": "https://www.facebook.com/acornfurnitureworkshops"
+    },
+    "output": {
+      "domain": "acornlawpc.com",
+      "company_commercial_name": "Acorn Law P.C.",
+      "company_legal_name": "Acorn Law P.C.",
+      "company_all_available_names": "Acorn Law P.C. | Acorn Law | Acorn Law P",
+      "phone_numbers": [
+        "(805) 409-3878"
+      ],
+      "social_media_links": [],
+      "addresses": [
+        "310 N. Westlake Blvd, Suite 100  Westlake Village, CA 91362"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Advance Net Support",
+      "input_phone": "(786) 426-3492",
+      "input_website": "",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "advancenetsupport.com",
+      "company_commercial_name": "Advance Network Support",
+      "company_legal_name": "ADVANCE NETWORK SUPPORT INC",
+      "company_all_available_names": "Advance Network Support | ADVANCE NETWORK SUPPORT INC",
+      "phone_numbers": [
+        "(786) 426-3492",
+        "(305) 306-6487"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/profile.php?id=100064803528337",
+        "https://www.linkedin.com/company/106028228/admin/dashboard/",
+        "https://www.instagram.com/advancenetworksupport/"
+      ],
+      "addresses": [
+        "11401 SW 40th St  Suite #265-B  Miami, FL 33165"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Aroostook",
+      "input_phone": "207.762.9321",
+      "input_website": "",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "aroostooktechnologies.com",
+      "company_commercial_name": "Aroostook Technologies",
+      "company_legal_name": "Aroostook Technologies Inc.",
+      "company_all_available_names": "Aroostook Technologies | Aroostook Technologies Inc.",
+      "phone_numbers": [
+        "(207) 762-9321"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/AroostookTechnologies"
+      ],
+      "addresses": [
+        "4 Airport Drive  Presque Isle, ME 04769"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "&AWL",
+      "input_phone": "",
+      "input_website": "awlsnap.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "awlsnap.com",
+      "company_commercial_name": "Awl Snap Leather Goods",
+      "company_legal_name": "Awl Snap LLC.",
+      "company_all_available_names": "Awl Snap Leather Goods | Awl Snap | Awl Snap LLC.",
+      "phone_numbers": [],
+      "social_media_links": [],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "RyanLBatesDDS",
+      "input_phone": "(509) 276-6996",
+      "input_website": "google.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "missinglnk.com",
+      "company_commercial_name": "Missing Link",
+      "company_legal_name": null,
+      "company_all_available_names": "Missing Link | Missing Link Motorcycle Apparel | Missing L8nk | Missing Ink",
+      "phone_numbers": [
+        "(888) 489-9984",
+        "(727) 873-6811"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/missinglnk",
+        "http://www.youtube.com/user/Alann1959/videos",
+        "https://twitter.com/saferideapparel"
+      ],
+      "addresses": [
+        "6550 78th Avenue North, Pinellas Park, FL 33781"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Cadott Family Restaurant Limited",
+      "input_phone": "715.978.0027",
+      "input_website": "google.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "cadottfamilyrestaurant.com",
+      "company_commercial_name": "Cadott Family Restaurant",
+      "company_legal_name": null,
+      "company_all_available_names": "Cadott Family Restaurant | Cadott Family",
+      "phone_numbers": [
+        "(715) 978-0027"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/cadottfamilyrestaurant/",
+        "https://www.instagram.com/cadottfamilyrestaurant/"
+      ],
+      "addresses": [
+        "641 WI-27,  Cadott, WI 54727"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Denham's Florist Inc",
+      "input_phone": "(706) 685.0182",
+      "input_website": "http://dreamservicesoftware.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "denhamsflorist.com",
+      "company_commercial_name": "Denham's Florist",
+      "company_legal_name": null,
+      "company_all_available_names": "Denham's Florist",
+      "phone_numbers": [
+        "(706) 685-0182",
+        "(702) 964-9168"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/pages/Denhams-Florist/280490905379085",
+        "https://instagram.com/denhamsflorist/"
+      ],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Garrett-Wietholter-State-Farm-Agent",
+      "input_phone": "(317) 873-3230",
+      "input_website": "google.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "garrettwietholter.com",
+      "company_commercial_name": "Garrett Wietholter",
+      "company_legal_name": "Garrett Wietholter Ins Agy Inc.",
+      "company_all_available_names": "Garrett Wietholter | Garrett Wietholter - State Farm Insurance Agent | Garrett Wietholter Ins Agy Inc.",
+      "phone_numbers": [
+        "(317) 873-3230",
+        "(317) 873-8958"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/153341281385570",
+        "https://www.linkedin.com/in/garrett-wietholter-b5037a88"
+      ],
+      "addresses": [
+        "11145 N Michigan Rd #100  \nZionsville, IN 46077"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "GSS",
+      "input_phone": "",
+      "input_website": "",
+      "input_facebook": "https://www.facebook.com/GSSstrings/"
+    },
+    "output": {
+      "domain": "goldenscrollsoloists.com",
+      "company_commercial_name": "Golden Scroll Soloists",
+      "company_legal_name": "Siman Tov Mazel Tov.",
+      "company_all_available_names": "Siman Tov. | Siman Tov Mazel Tov. | Simon Tov Chosen Kalle Mazel Tov. | Golden Scroll Soloists | Simon Tov.",
+      "phone_numbers": [
+        "(860) 949-5609"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/GSSstrings/",
+        "https://www.instagram.com/goldenscrollsoloists/?hl=en",
+        "https://www.youtube.com/@goldenscrollsoloists7840"
+      ],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Hueboost Services //",
+      "input_phone": "(+877) 449-5079",
+      "input_website": "",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "nefsvt.com",
+      "company_commercial_name": "Northeast Farm Services",
+      "company_legal_name": "Northeast Farm Services Inc.",
+      "company_all_available_names": "Northeast Farm Service | Northeast Farm Services Inc. | NEFS | Northeast Farm Sales & Service INC. | Northeast Farm Sales & Service | Northeast Farm Services",
+      "phone_numbers": [
+        "(802) 754-8863"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/NortheastFarmServices/"
+      ],
+      "addresses": [
+        "4501 Route 5 Irasburg, VT 05845"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "American Inns of Court Company",
+      "input_phone": "+1703-684-3590",
+      "input_website": "innsc.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "innsofcourt.org",
+      "company_commercial_name": "American Inns of Court Foundation",
+      "company_legal_name": null,
+      "company_all_available_names": "American Inns of Court Foundation | American Inns of Court",
+      "phone_numbers": [],
+      "social_media_links": [
+        "https://twitter.com/innsofcourt",
+        "www.facebook.com/AmericanInnsofCourt"
+      ],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "JETT Business Technology LTD",
+      "input_phone": "(678) 387-5715",
+      "input_website": "https://www.google.com/",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "jettbt.com",
+      "company_commercial_name": "JETT Business Technology",
+      "company_legal_name": null,
+      "company_all_available_names": "JETT Business Technology | UniSys Corporation",
+      "phone_numbers": [
+        "(678) 387-5715",
+        "(678) 387-5717",
+        "(770) 667-6178",
+        "(678) 387-5710",
+        "(678) 387-5701",
+        "(678) 387-5709"
+      ],
+      "social_media_links": [
+        "https://www.linkedin.com/company/jett-business-technology?trk=top_nav_home",
+        "https://www.facebook.com/JETTBusinessTechnology",
+        "https://twitter.com/JETTBusinessTec",
+        "https://www.youtube.com/@jettbusinesstechnology7965"
+      ],
+      "addresses": [
+        "1060 Windward Ridge Pkwy, Suite 150, Alpharetta, GA 30005"
+      ],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "NCCA Inc.",
+      "input_phone": "207.762.9321",
+      "input_website": "",
+      "input_facebook": "https://www.facebook.com/musselrockcloggers/"
+    },
+    "output": {
+      "domain": "aroostooktechnologies.com",
+      "company_commercial_name": "Aroostook Technologies",
+      "company_legal_name": "Aroostook Technologies Inc.",
+      "company_all_available_names": "Aroostook Technologies | Aroostook Technologies Inc.",
+      "phone_numbers": [
+        "(207) 762-9321"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/AroostookTechnologies"
+      ],
+      "addresses": [
+        "4 Airport Drive  Presque Isle, ME 04769"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "NY AL Elevator",
+      "input_phone": "",
+      "input_website": "elevator.io",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "nynjelevator.com",
+      "company_commercial_name": "NY NJ Elevator Corp.",
+      "company_legal_name": "NY NJ Elevator Corp.",
+      "company_all_available_names": "NY NJ Elevator Corp. | Nynjelevator | NY NJ Elevator Co. | NJ Elevator Corp.",
+      "phone_numbers": [
+        "(888) 569-3042"
+      ],
+      "social_media_links": [],
+      "addresses": [
+        "353 West 48th Street 4th Floor\nNew York, NY 10036",
+        "3010 Bordentown Ave - B3\nParlin, NJ 08859"
+      ],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "NY Staffing LLC.",
+      "input_phone": "",
+      "input_website": "nyexecstaffing.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "proexecstaffing.com",
+      "company_commercial_name": "Pro-Exec Staffing LLC.",
+      "company_legal_name": "Pro-Exec Staffing LLC.",
+      "company_all_available_names": "Pro-Exec Staffing LLC. | Pro Exec Staffing",
+      "phone_numbers": [
+        "(713) 248-2245"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/proexecstaffing",
+        "https://twitter.com/exec_pro",
+        "https://linkedin.com/company/pro-exec-staffing"
+      ],
+      "addresses": [
+        "Cypress, TX, 77433, US"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Puppet Heap USA",
+      "input_phone": "",
+      "input_website": "puppet.io",
+      "input_facebook": "https://facebook.com/puppetheap"
+    },
+    "output": {
+      "domain": "puppetheap.com",
+      "company_commercial_name": "Puppet Heap",
+      "company_legal_name": "Puppet Heap LLC.",
+      "company_all_available_names": "Puppet Heap | Puppet Heap LLC.",
+      "phone_numbers": [],
+      "social_media_links": [
+        "https://www.facebook.com/puppetheap/",
+        "http://instagram.com/puppetheap",
+        "http://youtube.com/puppetheap",
+        "https://www.linkedin.com/company/puppetheap/",
+        "https://www.tiktok.com/@puppetheap"
+      ],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "SafetyChain Software Services Pty. Ltd.",
+      "input_phone": "",
+      "input_website": "https://safetychain.com/about-us",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "safetychain.com",
+      "company_commercial_name": "SafetyChain Software",
+      "company_legal_name": "SafetyChain Software Inc.",
+      "company_all_available_names": "SafetyChain Software | Safety Chain | SafetyChain Software Inc.",
+      "phone_numbers": [
+        "(888) 235-7540",
+        "(847) 798-6060"
+      ],
+      "social_media_links": [
+        "https://www.linkedin.com/company/safetychain-software/",
+        "https://www.youtube.com/channel/UCMSYeHBHsysxGcSsGBdZEhA",
+        "https://www.facebook.com/safetychain/",
+        "https://www.twitter.com/safetychain"
+      ],
+      "addresses": [
+        "7599 Redwood Blvd, Suite #205\nNovato, CA 94945"
+      ],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "SBS*",
+      "input_phone": "",
+      "input_website": "http://sbstransportllc.com/index.html?lang=en",
+      "input_facebook": "https://www.facebook.com/SBS-Transport-LLC-101932885163238"
+    },
+    "output": {
+      "domain": "sbstransportllc.com",
+      "company_commercial_name": "SBS Transport",
+      "company_legal_name": "SBS Transport LLC.",
+      "company_all_available_names": "SBS Transport | SBS Transport LLC.",
+      "phone_numbers": [],
+      "social_media_links": [
+        "https://www.facebook.com/101932885163238",
+        "https://www.instagram.com/sbstransportllc/"
+      ],
+      "addresses": [
+        "6504 28th Street Southeast Suite J, Grand Rapids, Michigan 49546, United States"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "SteppIR Tree Services",
+      "input_phone": "",
+      "input_website": "steppir.com",
+      "input_facebook": "https://www.facebook.com/SteppIR/"
+    },
+    "output": {
+      "domain": "steppir.com",
+      "company_commercial_name": "SteppIR Communication Systems",
+      "company_legal_name": "SteppIR Inc.",
+      "company_all_available_names": "SteppIR Communication Systems | SteppIR | SteppIR Inc.",
+      "phone_numbers": [
+        "(425) 453-1910"
+      ],
+      "social_media_links": [],
+      "addresses": [
+        "13406 SE 32nd Street\nBellevue, WA 98005"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Templo Ebenezer Weslaco Holding",
+      "input_phone": "(956) 968-8142",
+      "input_website": "",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "temploebenezerweslaco.com",
+      "company_commercial_name": "TEMPLO EBENEZER WESLACO",
+      "company_legal_name": null,
+      "company_all_available_names": "TEMPLO EBENEZER WESLACO",
+      "phone_numbers": [],
+      "social_media_links": [],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "The Greenwich Cincinnati",
+      "input_phone": "+1513-221-1151",
+      "input_website": "",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "the-greenwich.com",
+      "company_commercial_name": "The Greenwich",
+      "company_legal_name": null,
+      "company_all_available_names": "The Greenwich",
+      "phone_numbers": [
+        "(513) 221-1151"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/pages/The-Greenwich/132754124391",
+        "http://www.twitter.com/thegreenwich"
+      ],
+      "addresses": [
+        "2442 Gilbert Ave. Cincinnati, OH 45206"
+      ],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Inc. Mercury",
+      "input_phone": "",
+      "input_website": "",
+      "input_facebook": "https://facebook.com/bluemercury"
+    },
+    "output": {
+      "domain": "clockinc.org",
+      "company_commercial_name": "Clock Inc.",
+      "company_legal_name": "Clock Inc.",
+      "company_all_available_names": "Clock Inc. | Free Clock Inc.",
+      "phone_numbers": [
+        "(309) 558-0956"
+      ],
+      "social_media_links": [
+        "http://facebook.com/clock.inc.qc",
+        "https://www.instagram.com/clockinclgbt/",
+        "https://twitter.com/clockincLGBT",
+        "https://www.linkedin.com/in/clockinc/",
+        "http://snapchat.com/add/clockinclgbt"
+      ],
+      "addresses": [
+        "4102 46th Ave.\nRock Island, IL 61201"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Total Seal Inc.",
+      "input_phone": "",
+      "input_website": "",
+      "input_facebook": "https://www.facebook.com/totalseal.pistonrings/"
+    },
+    "output": {
+      "domain": "totalseal.com",
+      "company_commercial_name": "Total Seal Piston Rings",
+      "company_legal_name": "Total Seal Inc.",
+      "company_all_available_names": "Total Seal Piston Rings | Total Seal | Total Seal Inc.",
+      "phone_numbers": [
+        "18008742753"
+      ],
+      "social_media_links": [
+        "https://www.facebook.com/totalseal.pistonrings/",
+        "https://www.instagram.com/total.seal/",
+        "https://www.youtube.com/channel/UCwcu9GQ0tsjaWGcn0bKAr3Q"
+      ],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "True Audio Services",
+      "input_phone": "865-494-3388",
+      "input_website": "trueaudio.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "trueaudio.com",
+      "company_commercial_name": "True Audio",
+      "company_legal_name": null,
+      "company_all_available_names": "True Audio",
+      "phone_numbers": [
+        "(865) 494-3388"
+      ],
+      "social_media_links": [],
+      "addresses": [
+        "Andersonville TN USA"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "ViruStar LLC.",
+      "input_phone": "",
+      "input_website": "viru.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "virustarllc.com",
+      "company_commercial_name": "ViruStar LLC.",
+      "company_legal_name": "ViruStar LLC.",
+      "company_all_available_names": "ViruStar LLC. | VirusStar LLC.",
+      "phone_numbers": [],
+      "social_media_links": [],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "W. Works Holding(s)",
+      "input_phone": "",
+      "input_website": "wworks.net",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "wombatworks.org",
+      "company_commercial_name": "Wombat Works",
+      "company_legal_name": "Wombat Works LLC.",
+      "company_all_available_names": "Wombat Works | Wombat Works LLC.",
+      "phone_numbers": [],
+      "social_media_links": [],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Forge Marketing & Management Pty.",
+      "input_phone": "",
+      "input_website": "",
+      "input_facebook": "https://www.facebook.com/workitstudio/"
+    },
+    "output": {
+      "domain": "workitstudio.com",
+      "company_commercial_name": "Work It! Studio by WandaWoman",
+      "company_legal_name": "Forge Marketing & Management Pty.",
+      "company_all_available_names": "Work It! Studio by WandaWoman | Work It! Studio | Forge Marketing & Management Pty.",
+      "phone_numbers": [],
+      "social_media_links": [],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "A W Brueggemann Co.",
+      "input_phone": "",
+      "input_website": "awbrueggemann.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "awbrueggemann.com",
+      "company_commercial_name": "A W Brueggemann Co.",
+      "company_legal_name": "A W Brueggemann Co.",
+      "company_all_available_names": "A W Brueggemann Co. | A.W. Brueggemann | A.W. Brueggemann Company Inc.",
+      "phone_numbers": [
+        "(580) 237-3857"
+      ],
+      "social_media_links": [],
+      "addresses": [
+        "412 North Independence  \nEnid, Oklahoma 73701"
+      ],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Blue Ridge Chair - Limited",
+      "input_phone": "",
+      "input_website": "https://www.blueridgechair.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "blueridgechair.com",
+      "company_commercial_name": "Blue Ridge Chair",
+      "company_legal_name": "Blue Ridge Chair - Limited",
+      "company_all_available_names": "Blue Ridge Chair | Blue Ridge Chair Works | Blue Ridge Chair - Limited",
+      "phone_numbers": [],
+      "social_media_links": [],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.130Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Cedar Work Inc.",
+      "input_phone": "",
+      "input_website": "cedarwork.org",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "cedarwork.org",
+      "company_commercial_name": "Cedar Work",
+      "company_legal_name": null,
+      "company_all_available_names": "Cedar Work | Cedar Work International",
+      "phone_numbers": [],
+      "social_media_links": [],
+      "addresses": [],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "Inc.",
+      "input_phone": "",
+      "input_website": "",
+      "input_facebook": "https://facebook.com/bluemercury"
+    },
+    "output": {
+      "domain": "clockinc.org",
+      "company_commercial_name": "Clock Inc.",
+      "company_legal_name": "Clock Inc.",
+      "company_all_available_names": "Clock Inc. | Free Clock Inc.",
+      "phone_numbers": [
+        "(309) 558-0956"
+      ],
+      "social_media_links": [
+        "http://facebook.com/clock.inc.qc",
+        "https://www.instagram.com/clockinclgbt/",
+        "https://twitter.com/clockincLGBT",
+        "https://www.linkedin.com/in/clockinc/",
+        "http://snapchat.com/add/clockinclgbt"
+      ],
+      "addresses": [
+        "4102 46th Ave.\nRock Island, IL 61201"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  },
+  {
+    "input": {
+      "input_name": "..",
+      "input_phone": "",
+      "input_website": "steppir.com",
+      "input_facebook": ""
+    },
+    "output": {
+      "domain": "steppir.com",
+      "company_commercial_name": "SteppIR Communication Systems",
+      "company_legal_name": "SteppIR Inc.",
+      "company_all_available_names": "SteppIR Communication Systems | SteppIR | SteppIR Inc.",
+      "phone_numbers": [
+        "(425) 453-1910"
+      ],
+      "social_media_links": [],
+      "addresses": [
+        "13406 SE 32nd Street\nBellevue, WA 98005"
+      ],
+      "timestamp": "2025-03-31T12:52:26.129Z"
+    },
+    "status": "success",
+    "matchFound": true
+  }
+]

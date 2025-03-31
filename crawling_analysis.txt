@@ -1,0 +1,27 @@
+========== CRAWLING AND EXTRACTION ANALYSIS ==========
+
+COVERAGE STATISTICS
+------------------
+Total number of websites: 997
+Successfully crawled websites: 739 (74.12%)
+Failed to crawl: 258 (25.88%)
+
+EXTRACTION FILL RATES
+--------------------
+Phone Numbers:
+  - Websites with phone numbers: 405/997 sites (40.62%)
+  - Total phone numbers extracted: 573
+
+Social Media Links:
+  - Websites with social links: 261/997 sites (26.18%)
+  - Total social links extracted: 610
+
+Addresses:
+  - Websites with addresses: 305/997 sites (30.59%)
+  - Total addresses extracted: 381
+
+OVERALL STATISTICS
+-----------------
+Total datapoints extracted: 1564
+Average datapoints per processed site: 1.57
+Overall fill rate: 32.46%
